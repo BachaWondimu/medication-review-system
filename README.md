@@ -70,7 +70,8 @@ To serve the application as an Angular Single Page Application (SPA) via Express
 - **Browsing Medications:** Guests can browse by the first letter of medications and read all existing reviews without needing to log in.
 - **Managing Medications and Reviews:** Authenticated users can add, update, and delete their own medications and reviews.
 
-  ![Screenshot of Medication Browsing](screenshot-url) <!-- Replace with an actual screenshot URL -->
+  ![Screenshot of Medication Browsing](![image](https://github.com/user-attachments/assets/b7cfe024-8bdb-497b-bde3-c325d3ee9d11)
+ <!-- Replace with an actual screenshot URL -->
 
 ## Contributing
 
