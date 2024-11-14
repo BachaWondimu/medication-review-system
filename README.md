@@ -8,7 +8,6 @@ This project is a web application designed to help users browse, review, and rep
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 
