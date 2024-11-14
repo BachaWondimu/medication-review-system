@@ -21,7 +21,7 @@ This project is a web application designed to help users browse, review, and rep
 ## Technologies Used
 
 - **Frontend:** Angular, Angular Material for UI components, and ReactiveFormsModule for form handling
-- **Backend:** Node.js with Express (provided backend code)
+- **Backend:** Node.js with Express
 - **Authentication:** JWT-based authentication for secure access control
 - **Additional Requirements:** Complies with web standards and leverages the latest Angular features
 
@@ -72,13 +72,3 @@ To serve the application as an Angular Single Page Application (SPA) via Express
 
   ![Screenshot of Medication Browsing](![image](https://github.com/user-attachments/assets/b7cfe024-8bdb-497b-bde3-c325d3ee9d11)
  <!-- Replace with an actual screenshot URL -->
-
-## Contributing
-
-This project was developed for academic purposes in line with guidelines provided by Maharishi University. Contributions are welcome following the standard fork-and-pull model:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add YourFeature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a Pull Request
